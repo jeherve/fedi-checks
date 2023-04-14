@@ -5,3 +5,7 @@ repo: fedi-checks # The name of this repository
 sites:
   - name: fedi.jeremy.hu
     url: https://fedi.jeremy.hu/@jeremy
+
+status-website:
+  baseUrl: /fedi-checks # where "repo" is your repository name
+  name: Checking Fedi site status
