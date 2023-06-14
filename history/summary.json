@@ -6,7 +6,7 @@
     "slug": "fedi-jeremy-hu",
     "status": "down",
     "uptime": "93.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "91.20%",
     "uptimeMonth": "92.27%",
     "uptimeYear": "93.63%",
@@ -16,7 +16,7 @@
     "timeMonth": 684,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2023-06-14": 0,
+      "2023-06-14": 1,
       "2023-06-12": 415,
       "2023-06-11": 412,
       "2023-06-10": 41,
