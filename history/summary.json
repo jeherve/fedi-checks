@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.jeremy.hu.ico",
     "slug": "fedi-jeremy-hu",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.84%",
     "time": 730,
-    "timeDay": 746,
-    "timeWeek": 686,
-    "timeMonth": 731,
+    "timeDay": 661,
+    "timeWeek": 658,
+    "timeMonth": 733,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2024-04-29": 16,
@@ -42,8 +42,7 @@
       "2023-06-02": 321,
       "2023-06-01": 311,
       "2023-05-31": 312,
-      "2023-05-29": 343,
-      "2023-05-26": 341
+      "2023-05-29": 343
     }
   }
 ]
