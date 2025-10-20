@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.jeremy.hu.ico",
     "slug": "fedi-jeremy-hu",
     "status": "down",
-    "uptime": "96.10%",
+    "uptime": "95.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.21%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "92.92%",
+    "uptimeWeek": "66.92%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "92.64%",
     "time": 821,
-    "timeDay": 633,
-    "timeWeek": 952,
-    "timeMonth": 879,
+    "timeDay": 828,
+    "timeWeek": 956,
+    "timeMonth": 881,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2025-10-19": 8,
+      "2025-10-20": 8,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 446,
       "2025-10-09": 234,
@@ -50,8 +51,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 262,
       "2025-02-24": 18,
-      "2025-02-13": 127,
-      "2024-10-20": 339
+      "2025-02-13": 127
     }
   }
 ]
