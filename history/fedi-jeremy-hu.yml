@@ -1,7 +1,7 @@
 url: https://fedi.jeremy.hu/@jeremy
-status: up
-code: 200
-responseTime: 1130
-lastUpdated: 2026-08-27T04:12:51.338Z
+status: down
+code: 502
+responseTime: 438
+lastUpdated: 2026-08-28T00:22:31.783Z
 startTime: 2023-04-14T16:24:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
